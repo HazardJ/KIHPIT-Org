@@ -8,4 +8,4 @@
   
 <br><br>
 Resources:
-<ol><li>Description:<br><a href="https://en.wikipedia.org/wiki/Kea_(island)">Kea (Wikipedia/EN)<br><a href="http://www.greektravel.com/greekislands/kea/">www.greektravel.com/greekislands/kea/</a></ol> 
+<ol><li>Description:<br><a href="http://www.kea.gr/index.php/en/">kea.gr/index.php/en/ (official site)</a><br><a href="https://en.wikipedia.org/wiki/Kea_(island)">Kea (Wikipedia/EN)<br><a href="http://www.greektravel.com/greekislands/kea/">www.greektravel.com/greekislands/kea/</a></ol> 
