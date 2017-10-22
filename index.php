@@ -1,7 +1,7 @@
 <html><head>
  <link rel = stylesheet type=text/css href=style.css>
 </head>
-<body><center><h1>KIHP-IT<h1><h4>(suggested pronunciation "keep it")</h4>
+<body><center><h1>KIHP IT<h1><h4>(suggested pronunciation "keep it")</h4>
  <h3>The Kean Intentional Human Progress Institu<u>t</u>e</h3></center>
 
  
